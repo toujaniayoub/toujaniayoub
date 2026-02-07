@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/-BI%20Engineer-orange?style=for-the-badge" />
 </p>
 
-### 🎓 BI & Data Engineer
+###  BI & Data Engineer
 > **Aspiring Data Engineer | BI & Machine Learning Enthusiast | Turning raw data into strategic action.**
 
 ---
