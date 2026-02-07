@@ -47,10 +47,19 @@ I thrive at the intersection of technical engineering and business strategy. Whe
 
 ---
 
+---
+
 ## 📈 GitHub Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=toujaniayoub&show_icons=true&theme=radical" alt="Ayoub's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toujaniayoub&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayoub's GitHub Stats" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toujaniayoub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ---
 
