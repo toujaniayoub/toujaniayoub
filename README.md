@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Data%20Engineer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-BI%20Engineer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python%20Developer-green?style=for-the-badge" />
 </p>
 
 ### 🎓 Final-Year Engineering Student in Data & Business Intelligence 
