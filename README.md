@@ -45,21 +45,6 @@ I thrive at the intersection of technical engineering and business strategy. Whe
 * **Full Stack Data:** Scraped LinkedIn data, processed it through a PostgreSQL star schema, and visualized it in an embedded Power BI/Angular app.
 * **Tech:** Tesseract OCR, Python, dbt, and Power BI.
 
----
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=toujaniayoub&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayoub's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toujaniayoub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ---
 
