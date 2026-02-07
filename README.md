@@ -1,6 +1,7 @@
-<p align="center">
+<div align="center">
 <h1>🚀 Ayoub Toujani</h1>
-</p>
+</div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayoubtoujani/">
